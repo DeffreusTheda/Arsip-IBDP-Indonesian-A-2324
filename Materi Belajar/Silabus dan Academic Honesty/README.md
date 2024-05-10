@@ -1,4 +1,5 @@
-# Materi Belajar
+# Silabus dan Academic Honesty
 
 [Silabus Pembelajaran Bahasa Indonesia 2023-2025](Syllabus%202022-2024.docx)
+
 [Academic Honesty](Academic%20Honesty%20Policy.docx)
