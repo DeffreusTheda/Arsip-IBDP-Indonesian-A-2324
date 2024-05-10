@@ -12,7 +12,9 @@ I love traveling, and I was a solo traveler. Being a solo traveler taught me to 
 
 ## Favorite Books
 
-![Bukan Rapuh, Hanya Lelas](img/Bukan Rapuh, Hanya Lelas.jpg)
-![Petrikor](img/Petrikor.jpg)
-![Retrofili](img/Retrofili.jpg)
-![Sound of Voiceless](img/Sound of Voiceless.jpg)
+<div style="display: inline-block; margin: auto">
+  <img src="img/Bukan%20Rapuh%2c%20Hanya%20Lelas.jpg" width="20%">
+  <img src="img/Petrikor.jpg" width="20%">
+  <img src="img/Retrofili.jpg" width="20%">
+  <img src="img/Sound%20of%20Voiceless.jpg" width="20%">
+</div>
